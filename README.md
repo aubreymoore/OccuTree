@@ -6,4 +6,4 @@ OccuTree is intended as a tool for building handy reference lists for specified 
 * All taxa with GBIF occurrence records from Guam
 * Insects with GBIF occurrence records from Guam
 
-Source code is provided as a Jupyter Notebook (Python) which can be run for free on Google Colab. A tutorial shows how to create an interactive tree for all taxa on Guam which have GBIF occurrence records.
+Source code is provided as a Jupyter Notebook (Python) which can be run for free on Google Colab. A tutorial is provided.
