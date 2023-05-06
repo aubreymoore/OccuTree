@@ -4,6 +4,6 @@ OccuTree is software which creates an interactive tree view for all taxa include
 
 OccuTree is intended as a tool for building handy reference lists for specified taxonomic and geographic ranges. Here are a couple of examples:
 * All taxa with GBIF occurrence records from Guam
-* Insects with GBIF occurrence records from Guam
+* [Insects with GBIF occurrence records from Guam](gbif-occurences-Guam-Insecta.html)
 
 Source code is provided as a Jupyter Notebook (Python) which can be run for free on Google Colab. A tutorial is provided.
