@@ -9,8 +9,7 @@ OccuTree is intended as a tool for building handy reference lists for specified 
 Source code is provided as a Jupyter Notebook (Python) which can be run for free on Google Colab (see [tutorial](tutorial.md)).
 
 ## ToDo
-* add .gitignore
 * write tutorial
 * get rid of NaNs
-* correct "occurences"
-* rename repo to OccuTree
+* DONE correct "occurences"
+* DONE rename repo to OccuTree
